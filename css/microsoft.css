@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+}
+/*.navigation{
+	width:50px;
+	margin: auto;
+}*/
+ul li a{
+	text-decoration: none;
+	color:hotpink;
+	padding:8px 16px;
+	display: block;
+}
+ul{
+	background: #30f89f;
+}
+ul li {
+	list-style: none;
+	float:left;
+	border:solid 1px #000;
+}
+
+
+.dropdown{
+	display: none;
+}
+/*
+.dropdown li a{
+	text-decoration: none;
+}*/
